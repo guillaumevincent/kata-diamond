@@ -1,3 +1,15 @@
 # Kata du diamant en python 3
 
 afficher un diamant en ASCII.
+
+# example:
+
+    print(Diamant('D').tailler())
+    
+       A   
+      B B  
+     C   C 
+    D     D
+     C   C 
+      B B  
+       A   
